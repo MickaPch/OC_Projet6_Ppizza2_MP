@@ -93,5 +93,5 @@ Le modèle physique de données permet de construire la structure finale de la b
 
 Jeu de données de démonstration inspirée de personnages, adresses et coordonnées fictives.
 La base de données est importable grâce à deux fichiers SQL :
-* Script de création de la base de données
-* Script d'import des données de démonstration
+* [Script de création de la base de données](sql/script_table.sql)
+* [Script d'import des données de démonstration](sql/oc_pizza.sql)
