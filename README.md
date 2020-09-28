@@ -92,6 +92,9 @@ Le modèle physique de données permet de construire la structure finale de la b
 ## <a name="bdd"></a>Base de données MySQL
 
 Jeu de données de démonstration inspirée de personnages, adresses et coordonnées fictives.
+La base de données a été crée depuis SQL Power Architect à partir du modèle physique de données réalisé.
+L'import des données et l'export du script d'insertion des données a été réalisée grâce à PhpMyAdmin.
+
 La base de données est importable grâce à deux fichiers SQL :
 * [Script de création de la base de données](sql/script_table.sql)
 * [Script d'import des données de démonstration](sql/oc_pizza.sql)
