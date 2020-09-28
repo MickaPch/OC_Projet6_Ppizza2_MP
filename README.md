@@ -63,8 +63,7 @@ Le système a besoin d'un certain nombre d'autres classes :
 * *Fonction* : Fonction exercée par l'employé, permet la gestion des droits dans la plateforme informatique
 * *Coordonnées* : Coordonnées des points de vente, clients et employés
 
-
-***IMAGE + LIEN VERS LE DIAGRAMME DE CLASSES***
+![diagramme de classes](spec_tech/classes/classes.png)
 
 
 ### <a name="composants_système"></a>Composants du système
@@ -72,8 +71,7 @@ Le système a besoin d'un certain nombre d'autres classes :
 
 La description des différents composants consiste à réaliser un diagramme de composants. Ils permettent de décrire le système modélisé sous forme de composants réutilisables et mettent en évidence leurs relations de dépendance.
 
-
-***IMAGE + LIEN VERS LE DIAGRAMME DE COMPOSANTS***
+![diagramme de composants](spec_tech/composants/composants.png)
 
 
 ### <a name="déploiement"></a>Déploiement
@@ -81,16 +79,14 @@ La description des différents composants consiste à réaliser un diagramme de 
 
 Le diagramme de déploiement décrit la disposition physique des ressources matérielles qui composent le système et montre la répartition des composants sur ces matériels. Chaque ressource étant matérialisée par un noeud, le diagramme de déploiement précise comment les composants sont répartis sur les noeuds et quelles sont les connexions entre les composants ou les noeuds.
 
-
-***IMAGE + LIEN VERS LE DIAGRAMME DE DEPLOIEMENT***
+![diagramme de déploiement](spec_tech/deploiement/deploiement.png)
 
 
 ## <a name="mpd"></a>Modèle physique de données
 
 Le modèle physique de données permet de construire la structure finale de la base de données avec les différents liens entre les éléments qui la composent.
 
-
-***IMAGE + LIEN VERS LE DIAGRAMME DE DEPLOIEMENT***
+![modèle physique de données](mpd/oc_pizza.architect.pdf)
 
 
 ## <a name="bdd"></a>Base de données MySQL
