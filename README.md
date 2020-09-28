@@ -1,7 +1,7 @@
 # Concevez la solution technique d'un système de gestion de pizzeria
 
 
-Lien GitHub vers le projet : [OC_Projet5_API_MP](https://github.com/MickaPch/OC_Projet5_API_MP)
+Lien GitHub vers le projet : [OC_Projet6_Ppizza2_MP](https://github.com/MickaPch/OC_Projet6_Ppizza2_MP)
 
 
 OpenClassrooms - Projet n°6 - Parcours *Développeur d'applications - Python*  
@@ -46,7 +46,6 @@ Définir le domaine fonctionnel et concevoir l'architecture technique d'un syst�
 ### <a name="description_domaine_fonctionnel"></a>Description du domaine fonctionnel
 
 
-[Lien vers les user stories & fonctionnalités](./app/resources/doc/user_stories.md)
 L'analyse du domaine fonctionnel consiste à l'élaboration du diagramme de classes de l'architecture technique de notre projet.  
 Le but du projet étant de modéliser un système informatique de gestion de pizzerias, le domaine fonctionnel est donc élaboré autour de 3 classes principales:
 * *PointDeVente* : Lieu dans lequel la commande de pizzas est enregistrée et préparée
