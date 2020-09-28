@@ -86,7 +86,7 @@ Le diagramme de déploiement décrit la disposition physique des ressources mat�
 
 Le modèle physique de données permet de construire la structure finale de la base de données avec les différents liens entre les éléments qui la composent.
 
-![modèle physique de données](mpd/mpd.png)
+![modèle physique de données](mpd/mpd.PNG)
 
 
 ## <a name="bdd"></a>Base de données MySQL
