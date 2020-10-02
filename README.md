@@ -8,7 +8,7 @@ OpenClassrooms - Projet n°6 - Parcours *Développeur d'applications - Python*
 Auteur : [MickaP](https://github.com/MickaPch/)  
 
 
-> *OC Pizza* est un jeune groupe de pizzerias en plein essor et spécialisé dans les pizzas livrées ou à emporter. Il compte déjà 5 points de vente et prévoit d'en ouvrir au moins 3 de plus d'ici la fin de l'année. Un des responsables a pris contact avec vous afin de mettre en place un système informatique, déployé dans toutes ses pizzerias et qui lui permettrait notamment :
+*OC Pizza* est un jeune groupe de pizzerias en plein essor et spécialisé dans les pizzas livrées ou à emporter. Il compte déjà 5 points de vente et prévoit d'en ouvrir au moins 3 de plus d'ici la fin de l'année. Un des responsables a pris contact avec vous afin de mettre en place un système informatique, déployé dans toutes ses pizzerias et qui lui permettrait notamment :
 * D'être plus efficace dans la gestion des commandes, de leur réception à leur livraison en passant par leur préparation
 * De suivre en temps réel les commandes passées et en préparation
 * De suivre en temps réel le stock d'ingrédients restants pour savoir quelles pizzas sont encore réalisables

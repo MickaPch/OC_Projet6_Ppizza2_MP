@@ -1,5 +1,5 @@
 
-CREATE DATABASE IF NOT EXISTS oc_pizza_test;
+CREATE DATABASE IF NOT EXISTS oc_pizza;
 
 
 CREATE TABLE type_paiement (
